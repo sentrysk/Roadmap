@@ -1,6 +1,8 @@
 # Roadmap
 Sentrysk Project Roadmap
 
+![SentryskSkeleton drawio](https://github.com/sentrysk/Roadmap/assets/6709252/6516814f-99fc-4eeb-85b1-5c250c5d054f)
+
 ## Agents Roadmap
 ### Windows Agent Roadmap
 - Create Modules
